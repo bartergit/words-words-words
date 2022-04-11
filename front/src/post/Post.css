@@ -1,0 +1,9 @@
+.post {
+    position: relative;
+}
+
+@keyframes fromCenterToBottom {
+    0% {top: 0%}
+    90% {top: 100%}
+    100% {top: 100%}
+}

@@ -1,4 +1,3 @@
-# words-words-words
 - add live refresh
 - prisma ?
 - graphql?
