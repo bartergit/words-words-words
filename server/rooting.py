@@ -9,6 +9,4 @@ app = FastAPI()
 async def root():
     return str(get_posts())
 
-
-
-#python3 -m uvicorn rooting:app --reload
+# python3 -m uvicorn rooting:app --reload
